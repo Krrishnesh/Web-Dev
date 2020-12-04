@@ -23,7 +23,7 @@ if($num_rows==1)
 //echo $num_rows;
 }
 
-else
+ else
 {
 	
 echo '<script type="text/javascript">'; 
