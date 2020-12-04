@@ -15,7 +15,7 @@
 <nav>
 		<div class="menu-icon">
 			
-		</div>
+		 </div>
 		<ul>
 			<li><a href="Add Events.html">Add Events</a></li>
 			<li><a href="Edit Events.php"">Edit Events</a></li>
