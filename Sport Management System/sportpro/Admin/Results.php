@@ -29,7 +29,7 @@ if ($conn->connect_error) {
 </header>
 <div class="row">
 <nav>
-		<div class="menu-icon">
+		 <div class="menu-icon">
 			
 		</div>
 		<ul>
