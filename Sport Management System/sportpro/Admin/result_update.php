@@ -28,7 +28,7 @@ while($row = $result->fetch_assoc()) {
 	$sclass=$row["class"]; 
 
   }
-$sql = "select class from entry where username='$third'";
+ $sql = "select class from entry where username='$third'";
 $result=$conn->query($sql);
 while($row = $result->fetch_assoc()) {
 	$tclass=$row["class"]; 
